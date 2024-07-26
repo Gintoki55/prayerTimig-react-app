@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/prayerTimig-react-app/static/css/main.38fa4231.css",
+    "main.js": "/prayerTimig-react-app/static/js/main.f9fa4384.js",
+    "static/js/453.adca134b.chunk.js": "/prayerTimig-react-app/static/js/453.adca134b.chunk.js",
+    "static/media/IBMPlexSansArabic-Bold.ttf": "/prayerTimig-react-app/static/media/IBMPlexSansArabic-Bold.4414bb5d273289a53e78.ttf",
+    "static/media/IBMPlexSansArabic-Medium.ttf": "/prayerTimig-react-app/static/media/IBMPlexSansArabic-Medium.6967e0c92c5b542330be.ttf",
+    "static/media/IBMPlexSansArabic-Thin.ttf": "/prayerTimig-react-app/static/media/IBMPlexSansArabic-Thin.877f146ad56bbcbdde53.ttf",
+    "static/media/IBMPlexSansArabic-ExtraLight.ttf": "/prayerTimig-react-app/static/media/IBMPlexSansArabic-ExtraLight.c881763b75182057abfe.ttf",
+    "static/media/IBMPlexSansArabic-Light.ttf": "/prayerTimig-react-app/static/media/IBMPlexSansArabic-Light.4594b40b8125b447b4b7.ttf",
+    "static/media/IBMPlexSansArabic-Regular.ttf": "/prayerTimig-react-app/static/media/IBMPlexSansArabic-Regular.dae364fb9c2b717518c7.ttf",
+    "index.html": "/prayerTimig-react-app/index.html",
+    "main.38fa4231.css.map": "/prayerTimig-react-app/static/css/main.38fa4231.css.map",
+    "main.f9fa4384.js.map": "/prayerTimig-react-app/static/js/main.f9fa4384.js.map",
+    "453.adca134b.chunk.js.map": "/prayerTimig-react-app/static/js/453.adca134b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38fa4231.css",
+    "static/js/main.f9fa4384.js"
+  ]
+}
